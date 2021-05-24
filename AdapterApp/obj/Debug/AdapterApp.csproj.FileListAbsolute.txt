@@ -1,0 +1,7 @@
+C:\Users\PREDATOR\source\repos\AdapterApp\AdapterApp\bin\Debug\AdapterApp.exe.config
+C:\Users\PREDATOR\source\repos\AdapterApp\AdapterApp\bin\Debug\AdapterApp.exe
+C:\Users\PREDATOR\source\repos\AdapterApp\AdapterApp\bin\Debug\AdapterApp.pdb
+C:\Users\PREDATOR\source\repos\AdapterApp\AdapterApp\obj\Debug\AdapterApp.csprojAssemblyReference.cache
+C:\Users\PREDATOR\source\repos\AdapterApp\AdapterApp\obj\Debug\AdapterApp.csproj.CoreCompileInputs.cache
+C:\Users\PREDATOR\source\repos\AdapterApp\AdapterApp\obj\Debug\AdapterApp.exe
+C:\Users\PREDATOR\source\repos\AdapterApp\AdapterApp\obj\Debug\AdapterApp.pdb
